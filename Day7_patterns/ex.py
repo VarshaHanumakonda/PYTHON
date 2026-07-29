@@ -1,3 +1,4 @@
+#patterns building
 #square using while
 '''i=1
 while i<6:

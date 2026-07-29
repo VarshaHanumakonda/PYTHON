@@ -34,6 +34,9 @@ while i<21:
     print(i)
     i+=2
 
+
+
+
 #for loop(for each loop) (works based on sequence and range)
 
 #print numbers from 1 to 10 and characters using sequence
@@ -55,6 +58,6 @@ for i in range (1,11):
 #print odd numbers from 1 to 10 using range with start, stop and step value
 for i in range (1,11,2): # 1 is start value, 11 is stop value, 2 is step value
     print(i)
-    
+
 for i in range (0,10,1): # default step value is 1
     print(i)

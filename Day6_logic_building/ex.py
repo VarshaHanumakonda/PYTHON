@@ -1,3 +1,4 @@
+#logic building
 #print 1 to 100 using while loop
 
 '''i=1
@@ -30,6 +31,7 @@ for str in name:
         print('*')
     else:
         print(str) '''   
+
 #using while loop
 '''name='VARSHA'
 i=0
@@ -38,7 +40,7 @@ while i<len(name):
         print('*')
     else:
         print(name[i])
-    i+=1  '''  
+    i+=1  '''
 
  
 

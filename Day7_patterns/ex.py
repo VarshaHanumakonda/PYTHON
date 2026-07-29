@@ -75,10 +75,10 @@ for i in range(1,6):
     print ( )'''
 
 #right angle triangle for 1 to 5 using while
-i=1
+'''i=1
 
 while i<6:
-   
+
    j=1
    while j<6:
        if j<=i:
@@ -86,8 +86,9 @@ while i<6:
         print(j,end=' ')
        j+=1 
    print( )
-   
-   i+=1
+
+   i+=1'''
+
 
 #right angle for 1 to 15 numbers using while
 '''num=1

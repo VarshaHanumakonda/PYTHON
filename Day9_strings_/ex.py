@@ -1,3 +1,4 @@
+#string methods
 '''a=10
 s='Hello world'
 print(a.__sizeof__())
@@ -8,12 +9,13 @@ print(s.__sizeof__())'''
 '''print(len('   Hello   '))
 print(len('###Hello###'.lstrip('#')))'''
 
-
+#string formatting methods
 product='Hard disk'
 size=500
 price=199.23
+# c style
 '''print('%s of %i GB is costing about %g dollers' %(product,size,price))'''
-
+# .format
 '''print('{1} of {2} GB is costing about {0} dollers'.format (product,size,price))'''
 
 

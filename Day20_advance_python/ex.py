@@ -76,7 +76,7 @@ t1.start()'''
          
 
 t = MyThread('0123456789',10)
-t1=MyThread('abcdefghij',20,name='alpha',daemon=True)
+t1=MyThread('abcdefghij',20,name='Alpha',daemon=True)
 
 
 t.start()
